@@ -1,1 +1,1 @@
-# Stevelytics-Hottest-Topic-In-Machine-Learning
+# Hottest-Topic-In-Machine-Learning
